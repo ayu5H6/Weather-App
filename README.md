@@ -1,6 +1,6 @@
 # Weather-App
 
-Overview:
+Overview:<br/>
 This Weather App is a web application that allows users to input a city name and get real-time weather information including temperature, humidity, a weather emoji, and a description of the current weather conditions. This project was developed during my virtual internship at Cipherbyte Tech.
 
 Features:
