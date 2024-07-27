@@ -5,14 +5,14 @@ This Weather App is a web application that allows users to input a city name and
 
 Features:
 
-City Input: Users can enter the name of any city to fetch the current weather data.
-Temperature: Displays the current temperature of the entered city.
-Humidity: Shows the current humidity level.
-Weather Emoji: Provides a visual representation of the weather condition.
-Weather Description: Offers a brief text description of the weather.
+City Input: Users can enter the name of any city to fetch the current weather data.<br/>
+Temperature: Displays the current temperature of the entered city.<br/>
+Humidity: Shows the current humidity level.<br/>
+Weather Emoji: Provides a visual representation of the weather condition.<br/>
+Weather Description: Offers a brief text description of the weather.<br/>
 
 Technologies Used:
 
-HTML: For structuring the content.
-CSS: For styling the application.
-JavaScript: For handling the dynamic behavior and API interactions.
+HTML: For structuring the content.<br/>
+CSS: For styling the application.<br/>
+JavaScript: For handling the dynamic behavior and API interactions.<br/>
