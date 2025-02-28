@@ -15,4 +15,4 @@ Technologies Used:
 
 HTML: For structuring the content.<br/>
 CSS: For styling the application.<br/>
-JavaScript: For handling the dynamic behavior and API interactions.<br/>
+JavaScript: For handling the dynamic behaviour and API interactions.<br/>
